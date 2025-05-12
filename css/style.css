@@ -3094,7 +3094,7 @@ h6 {
 /* Start Features Area css
 ============================================================================================ */
 .features_area {
-	padding-bottom: 170px;
+	padding-bottom: 50px;
 }
 @media (max-width: 1199px) {
 	.features_area {
@@ -3974,8 +3974,8 @@ h6 {
 	/* End Home Banner Area css
   ============================================================================================ */
 	.section_gap {
-		padding-top: 70px;
-		padding-bottom: 70px;
+		padding-top: 30px;
+		padding-bottom: 30px;
 	}
 
 	.main_title h2 {
